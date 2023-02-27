@@ -1,0 +1,53 @@
+{
+  "contacts": [
+    {
+      "id": "1",
+      "firstName": "Ali Arda",
+      "lastName": "Eruğuz",
+      "number": "5357886578",
+      "category": "Friend"
+    },
+    {
+      "id": "2",
+      "firstName": "Mehmet",
+      "lastName": "Koçyiğit",
+      "number": "5350976571",
+      "category": "Family"
+    },
+    {
+      "id": "1675787392467",
+      "firstName": "Ahmet Berkay",
+      "lastName": "Koçak",
+      "number": "5398762280",
+      "category": "Business"
+    },
+    {
+      "id": "1676551969547",
+      "firstName": "Sinan Burak",
+      "lastName": "Özoğuz",
+      "number": "5338768898",
+      "category": "General"
+    },
+    {
+      "id": "1676713139245",
+      "firstName": "Onur Joe",
+      "lastName": "Sayın",
+      "number": "5051858585",
+      "category": "Business"
+    },
+    {
+      "id": "1676741229870",
+      "firstName": "Burak",
+      "lastName": "Koçak",
+      "number": "5317383838",
+      "category": "Business"
+    },
+    {
+      "id": "1677478779002",
+      "firstName": "123",
+      "lastName": "123",
+      "number": "01312321321",
+      "category": "Family"
+    }
+  ]
+}

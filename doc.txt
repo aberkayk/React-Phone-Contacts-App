@@ -1,0 +1,26 @@
+Phone Contacts App
+
+A. Dependencies
+A1. json-server will be used for the fake API +
+A2. axios will be used for the data transfer +
+A3. react-router-dom will be used for pages +
+A4. Bootstrap will be used for UI +
+
+B. Includes
+B1. Bootstrap included +
+B2. json-server included +
+B3. axios included +
+B4. react-router-dom included +
+B5. Header component included for all pages +
+
+C. Rules
+C1. All contacts will be listed at home page +
+C2. There will be "Add Contact" button directs to new page to add new contacts +
+C3. Delete button will delete contacts +
+C4. There will be Update button to open a new page to update the contact. It will return to home page after update. +
+C5. There will be category filter button at home page, contacts will be listed with respect to the selected category. +
+    C5.1. Category will be editable from "UpdateContact" page. +
+    C5.2. Category will be selectable from "AddContact" page. +
+
+
+
