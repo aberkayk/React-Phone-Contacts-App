@@ -14,6 +14,6 @@
  <li>axios</li>
 </ul>
 <br>
-![](screen1.gif)
-<br>
-![](screen2.gif)
+![GIF1](screen1.gif)
+<br><br>
+![GIF2](screen2.gif)
