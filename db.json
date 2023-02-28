@@ -3,9 +3,9 @@
     {
       "id": "1",
       "firstName": "Ali Arda",
-      "lastName": "Eruğuz",
+      "lastName": "Eruğuz 123",
       "number": "5357886578",
-      "category": "Friend"
+      "category": "General"
     },
     {
       "id": "2",
@@ -47,6 +47,13 @@
       "firstName": "123",
       "lastName": "123",
       "number": "01312321321",
+      "category": "Family"
+    },
+    {
+      "id": "1677569108413",
+      "firstName": "Alex",
+      "lastName": "Doe",
+      "number": "01231232132",
       "category": "Family"
     }
   ]
