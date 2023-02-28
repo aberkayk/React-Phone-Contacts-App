@@ -14,6 +14,6 @@
  <li>axios</li>
 </ul>
 <br>
-![](/filter.gif)
+![](screen1filter.gif)
 <br><br>
-![](/addUpdate.gif)
+![](screen2add.gif)
