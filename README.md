@@ -14,6 +14,6 @@
  <li>axios</li>
 </ul>
 <br>
-![](screen1filter.gif)
+![](https://github.com/aberkayk/React-Phone-Contacts-App/blob/main/screen1filter.gif)
 <br><br>
-![](screen2add.gif)
+![](https://github.com/aberkayk/React-Phone-Contacts-App/blob/main/screen2add.gif)
