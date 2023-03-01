@@ -13,7 +13,7 @@
  <li>json-server</li>
  <li>axios</li>
 </ul>
-<br>
-![](https://github.com/aberkayk/React-Phone-Contacts-App/blob/main/screen1filter.gif)
-<br><br>
-![](https://github.com/aberkayk/React-Phone-Contacts-App/blob/main/screen2add.gif)
+
+![](screen1filter.gif)
+
+![](screen2add.gif)
